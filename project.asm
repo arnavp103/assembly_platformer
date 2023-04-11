@@ -13,7 +13,7 @@
 #
 # Which milestones have been reached in this submission?
 # (See the assignment handout for descriptions of the milestones)
-# - Milestone 1/2/3 (choose the one the applies) 
+# - Milestone 1/2/3 (choose the one the applies)
 #   all
 # Which approved features have been implemented for milestone 3?
 # (See the assignment handout for the list of additional features)
@@ -24,6 +24,7 @@
 #
 # Link to video demonstration for final submission:
 # - (insert YouTube / MyMedia / other URL here). Make sure we can view it!
+# https://youtu.be/HsQyrPcv_cg
 #
 # Are you OK with us sharing the video with people outside course staff?
 # - yes, and please share this project github link as well!
