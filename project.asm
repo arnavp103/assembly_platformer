@@ -13,8 +13,8 @@
 #
 # Which milestones have been reached in this submission?
 # (See the assignment handout for descriptions of the milestones)
-# - Milestone 1/2/3 (choose the one the applies)
-#
+# - Milestone 1/2/3 (choose the one the applies) 
+#   all
 # Which approved features have been implemented for milestone 3?
 # (See the assignment handout for the list of additional features)
 # 1. moving platforms
@@ -27,12 +27,18 @@
 #
 # Are you OK with us sharing the video with people outside course staff?
 # - yes, and please share this project github link as well!
+# https://github.com/arnavp103/assembly_platformer
 #
 # Any additional information that the TA needs to know:
-# - Have you heard the tragedy of darth plagueis the wise? I thought not.
-#   It's not a story the jedi would tell you. It's a sith legend.
-#   Darth plagueis was a dark lord of the sith,
-#   so powerful and so wise he could use the force to influence the midi-chlorians to create life... He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the force is a pathway to many abilities some consider to be unnatural. He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic. He could save others from death, but not himself.
+# - Have you heard the tragedy of Darth Plagueis the Wise? I thought not.
+#   It's not a story the Jedi would tell you. It's a Sith legend.
+#   Darth Plagueis was a dark lord of the Sith,
+#   so powerful and so wise he could use the force to influence the midi-chlorians to create life...
+#   He had such a knowledge of the dark side that he could even keep the ones he cared about from dying.
+#   The dark side of the force is a pathway to many abilities some consider to be unnatural.
+#   He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did.
+#   Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep.
+#   Ironic. He could save others from death, but not himself.
 #
 ###########################################################################################################
 # dimensions: 256x256 split into 4x4 chunks -> 64x64 chunks
@@ -113,7 +119,7 @@
 # 0x10008000
 #
 #  /                      0     ---------------------
-# |        rover->    /[####]\                                        you can drive left-right and jump
+# |        car  ->    /[####]\                                        you can drive left-right and jump
 # |                  o        o                                       you have to avoid the obstacles
 # |                 -----------------                                 and jump and land on the platforms
 # | ------------ <- debris getting sucked in                          and it's a score based mechanism
